@@ -132,7 +132,7 @@ export default function Screen_02({ navigation }) {
       type: "Drink",
       name: "Ép ổi",
       price: 28.09,
-      image: require("../assets/Data/Image_96.png"),
+      image: require("../assets/Data/drink-2.png"),
     },
     {
       key: "18",
