@@ -18,7 +18,7 @@ export default function Screen_02({ navigation }) {
       type: "Vegetable",
       name: "Apple",
       price: 28.09,
-      image: require("../assets/Data/Image 101.png"),
+      image: require("../assets/Data/apple.png"),
     },
     {
       key: "2",
@@ -39,35 +39,35 @@ export default function Screen_02({ navigation }) {
       type: "Vegetable",
       name: "Tomato",
       price: 28.09,
-      image: require("../assets/Data/Image 105.png"),
+      image: require("../assets/Data/quale.png"),
     },
     {
       key: "5",
       type: "Vegetable",
       name: "Potato",
       price: 28.09,
-      image: require("../assets/Data/Image 102.png"),
+      image: require("../assets/Data/quale.png"),
     },
     {
       key: "6",
       type: "Vegetable",
       name: "Cucumber",
       price: 28.09,
-      image: require("../assets/Data/Image 107.png"),
+      image: require("../assets/Data/thanhlong.png"),
     },
     {
       key: "7",
       type: "Vegetable",
       name: "Onion",
       price: 28.09,
-      image: require("../assets/Data/Image 103.png"),
+      image: require("../assets/Data/thanhlong.png"),
     },
     {
       key: "8",
       type: "Vegetable",
       name: "Garlic",
       price: 28.09,
-      image: require("../assets/Data/Image 105.png"),
+      image: require("../assets/Data/thanhlong.png"),
     },
     {
       key: "9",
@@ -89,35 +89,35 @@ export default function Screen_02({ navigation }) {
       type: "Seafood",
       name: "Combo 1",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan2"),
     },
     {
       key: "12",
       type: "Seafood",
       name: "Combo 2",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan2"),
     },
     {
       key: "13",
       type: "Seafood",
       name: "Combo 3",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan2"),
     },
     {
       key: "14",
       type: "Seafood",
       name: "Combo 4",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan1"),
     },
     {
       key: "15",
       type: "Seafood",
       name: "Combo 5",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan1"),
     },
 
     {
@@ -187,7 +187,7 @@ export default function Screen_02({ navigation }) {
           }}
         >
           <Image
-            source={require("../assets/Data/Image 183.png")}
+            source={require("../assets/Data/back.png")}
             style={{
               width: 25,
               height: 25,
@@ -201,7 +201,7 @@ export default function Screen_02({ navigation }) {
           }}
         >
           <Image
-            source={require("../assets/Data/Image 182.png")}
+            source={require("../assets/Data/giohang.png")}
             style={{
               width: 25,
               height: 25,

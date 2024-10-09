@@ -14,7 +14,7 @@ export default function Screen_04({ navigation }) {
   return (
     <View style={styles.container}>
       <Image
-        source={require("../assets/Data/payment done.png")}
+        source={require("../assets/Data/paymentdone.png")}
         style={styles.image}
       />
       <Text style={styles.message}>Payment Success</Text>

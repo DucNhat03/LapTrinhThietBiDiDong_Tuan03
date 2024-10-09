@@ -11,15 +11,15 @@ export default function Screen_01({ navigation }) {
       </View>
       <View style={styles.style2}>
         <Image
-          source={require('../assets/Data/Image_96.png')}
+          source={require('../assets/Data/drink.png')}
           style={{ width: 150, height: 150, marginLeft: 215 }}
         />
         <Image
-          source={require('../assets/Data/Image 95.png')}
+          source={require('../assets/Data/haisan2.png')}
           style={{ width: 150, height: 150, marginLeft: 20, marginTop: -25 }}
         />
         <Image
-          source={require('../assets/Data/Image 97.png')}
+          source={require('../assets/Data/haisan1.png')}
           style={{ width: 150, height: 150, marginLeft: 200, marginTop: 30 }}
         />
       </View>

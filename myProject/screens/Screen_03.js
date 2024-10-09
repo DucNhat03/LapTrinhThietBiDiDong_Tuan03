@@ -20,7 +20,7 @@ export default function Screen_03({ navigation }) {
       type: "Vegetable",
       name: "Apple",
       price: 28.09,
-      image: require("../assets/Data/Image 101.png"),
+      image: require("../assets/Data/apple.png"),
       sl: 1
     },
     {
@@ -44,7 +44,7 @@ export default function Screen_03({ navigation }) {
       type: "Vegetable",
       name: "Tomato",
       price: 28.09,
-      image: require("../assets/Data/Image 101.png"),
+      image: require("../assets/Data/apple.png"),
       sl: 1
     },
     {
@@ -52,7 +52,7 @@ export default function Screen_03({ navigation }) {
       type: "Vegetable",
       name: "Potato",
       price: 28.09,
-      image: require("../assets/Data/Image 106.png"),
+      image: require("../assets/Data/apple.png"),
       sl: 1
     },
     {
@@ -60,7 +60,7 @@ export default function Screen_03({ navigation }) {
       type: "Vegetable",
       name: "Cucumber",
       price: 28.09,
-      image: require("../assets/Data/Image 107.png"),
+      image: require("../assets/Data/apple.png"),
       sl: 3
     },
     {
@@ -68,7 +68,7 @@ export default function Screen_03({ navigation }) {
       type: "Vegetable",
       name: "Onion",
       price: 28.09,
-      image: require("../assets/Data/Image 105.png"),
+      image: require("../assets/Data/apple.png"),
       sl: 4
     },
     {
@@ -76,7 +76,7 @@ export default function Screen_03({ navigation }) {
       type: "Vegetable",
       name: "Garlic",
       price: 28.09,
-      image: require("../assets/Data/Image 102.png"),
+      image: require("../assets/Data/apple.png"),
       sl: 1
     },
     {
@@ -84,7 +84,7 @@ export default function Screen_03({ navigation }) {
       type: "Vegetable",
       name: "Pepper",
       price: 28.09,
-      image: require("../assets/Data/Image 101.png"),
+      image: require("../assets/Data/apple.png"),
       sl: 4
     },
     {
@@ -92,7 +92,7 @@ export default function Screen_03({ navigation }) {
       type: "Vegetable",
       name: "Broccoli",
       price: 28.09,
-      image: require("../assets/Data/Image 101.png"),
+      image: require("../assets/Data/apple.png"),
       sl: 1
     },
 
@@ -101,35 +101,35 @@ export default function Screen_03({ navigation }) {
       type: "Seafood",
       name: "Seafood 1",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan1.png"),
     },
     {
       key: "12",
       type: "Seafood",
       name: "Seafood 2",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan1.png"),
     },
     {
       key: "13",
       type: "Seafood",
       name: "Seafood 3",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan1.png"),
     },
     {
       key: "14",
       type: "Seafood",
       name: "Seafood 4",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan2.png"),
     },
     {
       key: "15",
       type: "Seafood",
       name: "Seafood 5",
       price: 28.09,
-      image: require("../assets/Data/Image 95.png"),
+      image: require("../assets/Data/haisan2.png"),
     },
 
     {
@@ -137,42 +137,42 @@ export default function Screen_03({ navigation }) {
       type: "Drink",
       name: "Drink 1",
       price: 28.09,
-      image: require("../assets/Data/Image_96.png"),
+      image: require("../assets/Data/drink-3"),
     },
     {
       key: "17",
       type: "Drink",
       name: "Drink 2",
       price: 28.09,
-      image: require("../assets/Data/Image_96.png"),
+      image: require("../assets/Data/drink-3"),
     },
     {
       key: "18",
       type: "Drink",
       name: "Drink 3",
       price: 28.09,
-      image: require("../assets/Data/Image_96.png"),
+      image: require("../assets/Data/drink-3"),
     },
     {
       key: "19",
       type: "Drink",
       name: "Drink 4",
       price: 28.09,
-      image: require("../assets/Data/Image_96.png"),
+      image: require("../assets/Data/drink-3"),
     },
     {
       key: "20",
       type: "Drink",
       name: "Drink 5",
       price: 28.09,
-      image: require("../assets/Data/Image_96.png"),
+      image: require("../assets/Data/drink-3"),
     },
     {
       key: "21",
       type: "Drink",
       name: "Drink 6",
       price: 28.09,
-      image: require("../assets/Data/Image_96.png"),
+      image: require("../assets/Data/drink-3"),
     },
   ]);
 
@@ -199,7 +199,7 @@ export default function Screen_03({ navigation }) {
           }}
         >
           <Image
-            source={require("../assets/Data/Image 183.png")}
+            source={require("../assets/Data/back.png")}
             style={{
               width: 25,
               height: 25,
@@ -267,23 +267,23 @@ export default function Screen_03({ navigation }) {
 
               <View style={{ flexDirection: "row" }}>
                 <Image
-                  source={require("../assets/Data/Image 180.png")}
+                  source={require("../assets/Data/cong.png")}
                   style={{ width: 15, height: 15, marginTop: 10 }}
                 />
                 <Image
-                  source={require("../assets/Data/Image 180.png")}
+                  source={require("../assets/Data/cong.png")}
                   style={{ width: 15, height: 15, marginTop: 10 }}
                 />
                 <Image
-                  source={require("../assets/Data/Image 180.png")}
+                  source={require("../assets/Data/cong.png")}
                   style={{ width: 15, height: 15, marginTop: 10 }}
                 />
                 <Image
-                  source={require("../assets/Data/Image 180.png")}
+                  source={require("../assets/Data/cong.png")}
                   style={{ width: 15, height: 15, marginTop: 10 }}
                 />
                 <Image
-                  source={require("../assets/Data/Image 180.png")}
+                  source={require("../assets/Data/cong.png")}
                   style={{ width: 15, height: 15, marginTop: 10 }}
                 />
               </View>
@@ -297,13 +297,13 @@ export default function Screen_03({ navigation }) {
               }}
             >
               <Image
-                source={require("../assets/Data/Image 176.png")}
+                source={require("../assets/Data/tru.png")}
                 style={{ width: 15, height: 15, marginTop: 10 }}
               />
 
               <Text style={{ fontSize: 15, marginTop: 10, paddingLeft: 5, paddingRight: 5 }}>{item.sl}</Text>
               <Image
-                source={require("../assets/Data/Image 175.png")}
+                source={require("../assets/Data/tru.png")}
                 style={{ width: 15, height: 15, marginTop: 10 }}
               />
             </View>
